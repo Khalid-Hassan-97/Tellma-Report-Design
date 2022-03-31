@@ -2,6 +2,6 @@
 
 Design and implement report for Tellma ERP system. The sketches implemented in html and css only for printing purposes.
 
-This is the link for the report
+### Report review
 
 https://khalid-hassan-97.github.io/Tellma_Report_Design/
